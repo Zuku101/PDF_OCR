@@ -42,7 +42,7 @@ To get a local copy up and running follow these simple steps.
 
 1. In a terminal, clone the repo by running:
     ```sh
-    git clone 
+    git clone https://github.com/Zuku101/PDF_OCR.git
     ```
 
 2. Change into the project directory (update path to reflect where you stored this project directory):
